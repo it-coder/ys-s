@@ -1,13 +1,13 @@
 {
   "build": {
-    "beforeBuildCommand": "npm run build",
+    "beforeBuildCommand": "",
     "beforeDevCommand": "npm run serve",
     "devPath": "http://localhost:8080/cdm-screen/",
     "distDir": "../dist"
   },
   "package": {
     "productName": "cdm-screen",
-    "version": "0.1.0"
+    "version": "0.2.0"
   },
   "tauri": {
     "allowlist": {
